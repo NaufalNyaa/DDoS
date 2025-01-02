@@ -27,7 +27,7 @@ def print_banner():
 ▒█▐▒▒▒████████████▒▒▒▒  [bright_yellow]║[/]   [bold red]Created by MbullGacor[/]     [bright_yellow]║[/]
 ▒▌▐▒▒██▄▀██████▀▄██▒▒▒  [bright_yellow]╚══════════════════════════════╝[/]
 ▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒  [bright_yellow][[/][bold red]WARNING[/][bright_yellow]][/] [bold white]Educational Purposes Only[/]
-▐┼▐▒▒██████████████▒▒▒  [bright_yellow][[/][bold cyan]INFO[/][bright_yellow]][/] [bold white]NO ISCO NO DISCO, NO MONEY NO PARTY[/]
+▐┼▐▒▒██████████████▒▒▒  [bright_yellow][[/][bold cyan]INFO[/][bright_yellow]][/] [bold white]I LIKE VODKA[/]
 ▐▄▐████─▀▐▐▀█─█─▌▐██▄▒  [bright_yellow][[/][bold green]MODE[/][bright_yellow]][/] [bold white]Unlimited Threads | Auto-Timer[/]
 ▒▒█████──────────▐███▌
 ▒▒█▀▀██▄█─▄───▐─▄███▀▒
