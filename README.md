@@ -58,7 +58,7 @@ sudo apt install git python3 python3-pip -y
 ### 3. Clone the Repository
 ```bash
 git clone https://github.com/NaufalNyaa/DDoS.git
-cd DoS
+cd DDoS
 ```
 
 ### 4. Install Dependencies
