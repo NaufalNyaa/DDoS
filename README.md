@@ -57,7 +57,7 @@ sudo apt install git python3 python3-pip -y
 
 ### 3. Clone the Repository
 ```bash
-git clone https://github.com/NaufalProject/DDoS.git
+git clone https://github.com/NaufalNyaa/DDoS.git
 cd DoS
 ```
 
