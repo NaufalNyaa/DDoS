@@ -89,4 +89,4 @@ This project is intended for **educational purposes only**. Unauthorized use of 
 
 ---
 
-**Developed by MbullGacorrr**
+**Developed by NaufalNyaa**
